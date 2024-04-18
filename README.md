@@ -1,5 +1,3 @@
-### 源码有注释有文档
-
 #### 安卓原生java语法，sqlite数据库，点击头像进主页看更多作品 下方有联系方式
  <img src='https://img.alicdn.com/imgextra/i4/1658540494/O1CN01cjHjxE1FWIa5Vwnk9_!!1658540494.jpg' alt='a119.jpg' /></br> 
  <img src='https://img.alicdn.com/imgextra/i3/1658540494/O1CN010Gt6FT1FWIa0fdzAj_!!1658540494.jpg' alt='a118.jpg' /></br> 
